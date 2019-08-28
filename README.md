@@ -1,5 +1,7 @@
 # wifiPass
 
-To get the saved passwords list type in cmd:
+To get the saved passwords list of wifi;
+
+type in cmd:
 
 	>>> python wifiPassWin.py
